@@ -30,8 +30,3 @@ _Senior VDC Specialist_
 
 ### Hagen Fritz
 _R&D Engineer I_
-
-<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Rika_Takashima.jpg" height=75 align="left">
-
-### Rika Takashima
-_Innovation Intern_
