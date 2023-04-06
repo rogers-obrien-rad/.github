@@ -11,22 +11,22 @@ Our primary objective is to simplify the lives of all employees within the compa
 ## The Team
 
 
-<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Todd_Wynne.jpg" height=75 align="left">
+<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Todd%20Wynne%201.jpg" height=75 align="left">
 
 ### Todd Wynne
 _Chief Innovation Officer_
 
-<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/James_Holmes.jpg" height=75 align="left">
+<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/James%20Holmes%201.jpg" height=75 align="left">
 
 ### James Holmes
 _Innovation Manager_
 
-<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Bruno_Chiquini%20.jpg" height=75 align="left">
+<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Bruno%20Chiquini%201.jpeg" height=75 align="left">
 
 ### Bruno Chiquini
 _Senior VDC Specialist_
 
-<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Hagen_Fritz.jpg" height=75 align="left">
+<img src="https://github.com/rogers-obrien-rad/.github/blob/main/images/Hagen%20Fritz%202.jpeg" height=75 align="left">
 
 ### Hagen Fritz
 _R&D Engineer I_
